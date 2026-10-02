@@ -3,6 +3,7 @@ dist
 out
 .tmp
 .DS_Store
+desktop.ini
 *.log*
 .eslintcache
 .env
