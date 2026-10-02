@@ -19,9 +19,6 @@
     "publish-beta:packages": "bash scripts/release-beta-pkgs.sh",
     "prepare": "husky"
   },
-  "pnpm": {
-    "patchedDependencies": {}
-  },
   "devDependencies": {
     "@common/configs": "workspace:*",
     "turbo": "^2.4.4",
